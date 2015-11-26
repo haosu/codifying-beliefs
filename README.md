@@ -22,7 +22,9 @@ categorization. If explaining a belief requires further justification, then I
 will establish a new one, reference, and explain the reasoning.
 
 Commit message should contain information about the circumstances of a belief
-change if possible. Justifications should contain the rationale.
+change if possible. Justifications should contain the rationale. Through the
+commit messages is where I believe how the explanation of my reasoning and not
+just pure rationale can be recorded.
 
 Early commits will probably be messy as I establish convention and formatting
 for expressing beliefs and justification.
