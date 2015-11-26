@@ -9,6 +9,11 @@ the basic beliefs that compose to form more complicated ones. This repository
 will serve as a changelog to my beliefs in addition to the decomposition of
 complicated beliefs in to beliefs that inform them.
 
+These beliefs don't have to be some truth about the world or something
+profound. They can be small preferences that together make up my personality. I
+hope to eventually graph the relationships between these beliefs to find what
+base beliefs could 'define' my personality.
+
 
 ## The process
 
